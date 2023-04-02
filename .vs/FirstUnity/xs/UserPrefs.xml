@@ -1,17 +1,21 @@
 ﻿<Properties StartupConfiguration="{67E054BE-CA9A-C649-F293-E40AFF18337F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tests/NewTestScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManeger.cs">
     <Files>
-      <File FileName="Assets/Scripts/GameManeger.cs" Line="10" Column="39" />
-      <File FileName="Library/PackageCache/com.unity.timeline@1.4.8/Editor/Actions/Menus/MenuItemActionBase.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Quit.cs" />
-      <File FileName="Assets/Scripts/QuitButton.cs" Line="12" Column="1" />
-      <File FileName="Assets/Scripts/Tests/Tests.asmdef" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Tests/NewTestScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ExitScript.cs" Line="13" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.ide.visualstudio@2.0.11/Editor/VisualStudioIntegration.cs" Line="149" Column="1" />
+      <File FileName="Assets/Scripts/BackMainMenu.cs" Line="7" Column="4" />
+      <File FileName="Assets/Scripts/GameManeger.cs" Line="8" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FirstUnity" expanded="True" selected="True" />
+          <Node name="FirstUnity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameManeger.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
